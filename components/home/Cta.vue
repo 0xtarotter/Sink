@@ -13,7 +13,7 @@
         href="/dashboard"
         type="inverted"
       >
-        Start
+        dashboard
       </HomeLink>
     </div>
   </div>
