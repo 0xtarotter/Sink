@@ -5,7 +5,7 @@ import { ArrowRight } from 'lucide-vue-next'
 
 <template>
   <a
-    href="https://x.com/ccbikai"
+    href="https://ip.icu"
     target="_blank"
     class="inline-flex items-center px-3 py-1 mx-auto my-4 space-x-1 text-sm font-medium rounded-lg bg-muted"
   >
@@ -14,7 +14,7 @@ import { ArrowRight } from 'lucide-vue-next'
       orientation="vertical"
       class="h-4"
     />
-    <span>Follow me on X(Twitter)</span>
+    <span>Recommended IP query tool</span>
     <ArrowRight class="w-4 h-4" />
   </a>
 </template>
