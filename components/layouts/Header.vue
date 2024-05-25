@@ -61,21 +61,25 @@ const showMenu = ref(false)
                 class="w-full px-6 py-2 mr-0 text-gray-700 cursor-pointer md:px-3 md:mr-2 lg:mr-3 md:w-auto"
                 href="/dashboard"
               >Dashboard</a>
-            </div>
-                     <div
+              </div>
+              <div
               class="flex flex-col items-start justify-end w-full pt-4 md:items-center md:w-1/3 md:flex-row md:py-0"
             >
               <a
                 class="w-full px-6 py-2 mr-0 text-gray-700 cursor-pointer md:px-3 md:mr-2 lg:mr-3 md:w-auto"
                 href="https://ip.icu"
-              >IP Query</a>
-                       <div
+              >IP info</a>
+              </div>
+              <div
               class="flex flex-col items-start justify-end w-full pt-4 md:items-center md:w-1/3 md:flex-row md:py-0"
             >
               <a
                 class="w-full px-6 py-2 mr-0 text-gray-700 cursor-pointer md:px-3 md:mr-2 lg:mr-3 md:w-auto"
                 href="https://cesu.wang"
-              >Speed</a>
+              >Speedtest</a>
+              </div>
+            </div>
+          
             </div>
             </div>
           </div>
