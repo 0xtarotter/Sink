@@ -61,16 +61,6 @@ const showMenu = ref(false)
                 class="w-full px-6 py-2 mr-0 text-gray-700 cursor-pointer md:px-3 md:mr-2 lg:mr-3 md:w-auto"
                 href="/dashboard"
               >Dashboard</a>
-              ·
-              <a
-                class="w-full px-6 py-2 mr-0 text-gray-700 cursor-pointer md:px-3 md:mr-2 lg:mr-3 md:w-auto"
-                href="https://ip.icu"
-              >IP info</a>
-              ·
-              <a
-                class="w-full px-6 py-2 mr-0 text-gray-700 cursor-pointer md:px-3 md:mr-2 lg:mr-3 md:w-auto"
-                href="https://cesu.wang"
-              >Speedtest</a>
               </div>
 
           
