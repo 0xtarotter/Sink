@@ -19,7 +19,7 @@ onMounted(() => {
         href="/"
         target="_blank"
       >
-        &copy; {{ new Date().getFullYear() }} Technical support: HTML.ZONE
+        &copy; {{ new Date().getFullYear() }} Products of MT
       </a>
       
     </div>
